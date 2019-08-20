@@ -1,6 +1,6 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.4" id="jhoni" version="1.2.6">
-  <name>RPP</name>
-  <description>RPP</description>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.5" id="jhoni" version="1.2.7">
+  <name>e-Learning SMA 4</name>
+  <description>e-Learning SMA 4</description>
   <author href="http://todak-source.com" email="jhonipratama13@gmail.com.com">Jhoni Eka Putra</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
